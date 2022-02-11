@@ -171,9 +171,9 @@ margin:auto;
 
 /* CARDS BANNER ONE */
 .cards-banner-one {
-  width: 60%;
-  height: 350px;
-  background: url("./fondo_by_co.jpeg") no-repeat center center/cover;
+  width: 50%;
+  height: 600px;
+  background: url("./coesport.jfif") no-repeat center center/cover;
   margin-bottom: 40px;
 
 }
