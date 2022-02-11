@@ -9,7 +9,7 @@ body {
   font-family: "EWIN", sans-serif;
   background-color:  #0a0a0a;
   /* Pattern from https://www.heropatterns.com/ */
-   background-image: url(polvopink.jpg);
+   background-image: url(4.png);
    background-position: center;
    background-attachment: fixed;
   background-size: cover;
@@ -132,3 +132,23 @@ hr {
 .links a i {
   font-size: 3rem;
 }
+
+.co_red {
+
+  text-shadow: 7px 4px 5px red;
+  align: center;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+.co_white {
+  
+  text-shadow: 7px 4px 5px white;
+align: center;
+font-style: normal;
+font-weight: bold;
+  text-transform: uppercase;
+
+}
+
